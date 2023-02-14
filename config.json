@@ -1,0 +1,22 @@
+{
+  "firmwareVersions": {
+    "U7PG2": "4.4.55.5375",
+    "U7LT": "4.4.55.5375",
+    "U7LR": "4.4.55.5375",
+    "U7IW": "4.4.55.5375",
+    "U7NHD": "4.4.55.5375",
+    "U7P": "4.4.55.5375"
+  },
+  "controllers": [
+    {
+      "url": "https://controller1.example.com",
+      "username": "admin",
+      "password": "password1"
+    },
+    {
+      "url": "https://controller2.example.com",
+      "username": "admin",
+      "password": "password2"
+    }
+  ]
+}
